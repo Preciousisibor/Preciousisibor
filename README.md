@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Preciousisibor
+# 👋 Hi, I’m Precious Isibor
 # 💫 About Me:
 Salesforce Consultant | Senior Business Analyst | Project Manager | Agile Enthusiast | Cloud Specialist
 
